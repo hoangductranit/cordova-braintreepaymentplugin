@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-braintreepaymentplugin-braintree",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-braintreepaymentplugin-braintree",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangductranit/cordova-braintreepaymentplugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Peter Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangductranit/cordova-braintreepaymentplugin/issues"
+  },
+  "homepage": "https://github.com/hoangductranit/cordova-braintreepaymentplugin#readme"
+}

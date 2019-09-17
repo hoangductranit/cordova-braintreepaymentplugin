@@ -13,7 +13,7 @@
             </feature>
         </config-file>
         <config-file parent="/*" target="AndroidManifest.xml"></config-file>
-        <source-file src="src/android/BrainTreePayment.java" target-dir="src/cordova/plugin/braintreepaymentplugin/braintree/BrainTreePayment" />
+        <source-file src="src/android/BrainTreePayment.java" target-dir="src/cordova/plugin/braintreepaymentplugin/braintree" />
         <framework src="src/android/build-extras.gradle" custom="true" type="gradleReference" />
     </platform>
 </plugin>
